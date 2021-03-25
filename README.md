@@ -51,11 +51,11 @@ A)C# Problem Solving
 
 B) SQL Server
 
-[![](https://github.com/99003675/MyProfile/blob/main/Badges/SQL.PNG?raw=true)
+![](https://github.com/99003675/MyProfile/blob/main/Badges/SQL.PNG?raw=true)
 
 **2. Microsoft**
 
-[![](https://github.com/99003675/MyProfile/blob/main/Badges/Screenshot%20(10).png?raw=true)
+![](https://github.com/99003675/MyProfile/blob/main/Badges/Screenshot%20(10).png?raw=true)
 
 **Certificates :**
 
