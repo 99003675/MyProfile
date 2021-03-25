@@ -51,7 +51,7 @@ A)C# Problem Solving
 
 B) SQL Server
 
-[![](RackMultipart20210325-4-1cvz81m_html_f5a044e52b3579e8.png)](https://github.com/99003552/Profile/blob/main/Badges/SQLBadge.PNG?raw=true)
+[![](https://github.com/99003675/MyProfile/blob/main/Badges/SQL.PNG?raw=true)
 
 **2. Microsoft**
 
