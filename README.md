@@ -47,7 +47,7 @@ HackerRank , Microsoft
 
 A)C# Problem Solving
 
-[![](RackMultipart20210325-4-1cvz81m_html_eb3cb4a60a83cf3f.png)](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
+[![](https://github.com/99003675/MyProfile/blob/main/Badges/ProblemSolving.PNG?raw=true)
 
 B) SQL Server
 
