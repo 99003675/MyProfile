@@ -55,7 +55,7 @@ B) SQL Server
 
 **2. Microsoft**
 
-[![](RackMultipart20210325-4-1cvz81m_html_5d9d99d33fc3e1bc.png)](https://github.com/99003552/Profile/blob/main/Badges/Microsoft.PNG?raw=true)
+[![](https://github.com/99003675/MyProfile/blob/main/Badges/Screenshot%20(10).png?raw=true)
 
 **Certificates :**
 
