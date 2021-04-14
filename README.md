@@ -68,7 +68,7 @@ Link:[https://www.hackerrank.com/certificates/db216cc9c89f](https://www.hackerra
 b) SQL
 Link: [sql intermediate](https://www.hackerrank.com/certificates/5c2191e8545b)
 
-![]()
+![](https://github.com/99003675/MyProfile/blob/main/Badges/SQLIntermediate.png?raw=true)
 
 **Mini Projects:**
 
